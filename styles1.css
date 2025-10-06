@@ -87,7 +87,7 @@ ul {
   max-width: 1260px;
   padding: 0 20px;
 } */
-/* .movie-grid,
+/* .movie-grid, */
 .series-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -95,7 +95,7 @@ ul {
   max-width: 1260px;
   margin: 0 auto 60px;
   padding: 0 20px;
-} */
+}
 
 .card {
   position: relative;
@@ -154,7 +154,7 @@ ul {
   transition: opacity 0.3s ease;
 }
 
-/* footer {
+footer {
   grid-area: footer;
   background: linear-gradient(90deg, #32165c 0%, #111030 100%);
   text-align: center;
@@ -162,7 +162,7 @@ ul {
   font-size: 0.9rem;
   color: #bbb;
   align-self: end;
-} */
+}
 
 @media (max-width: 1023.98px) {
   .series-grid {
